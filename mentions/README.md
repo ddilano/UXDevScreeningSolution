@@ -1,3 +1,6 @@
+This file is created due to JSFiddle error happening in the input field for the trigger.
+You can see the solution either by cloning this repo and running in your own localhost or in an alternative code sharing platforms such as coderpad.io or repl.it
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
